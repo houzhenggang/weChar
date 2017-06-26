@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div style="border:1px solid red; width:50%;height:600px;margin:0 auto;">
+    <div style="text-align:center;">
+        <h2 style="margin-top:20px;">
+            微信授权登录
+        </h2>
+        <!--
+        <div style="margin-top:60px;">
+            <form id="form" name="form" method="post" action="Home/Login">
+                邮箱:<input name="number" type="text" /><br />
+                <div style="margin-top:20px;"></div>
+                    密码:<input name="password" type="passWord" /><br />
+                    <input type="submit" name="Submit" value="登录" style="margin-top:20px;margin-left:120px;" />
+            </form>
+          </div>
+         -->
+
+        <img src="~/Images/test1.png" alt="微信登录授权测试" style="width:300px;height:300px;" />
+
+     </div>
+
+    <br />
+
+    昵称：@Html.Encode(ViewBag.Message_ViewBag)
+
+
+</div>

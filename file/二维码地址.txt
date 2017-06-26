@@ -1,0 +1,5 @@
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf924bae337057367&redirect_uri=http%3a%2f%2fgoogles.ngrok.cc%2fLogin%2fshowOauth2&response_type=code&scope=snsapi_userinfo&state=123&connect_redirect=1#wechat_redirect
+
+
+
+http://googles.ngrok.cc/Login/Login

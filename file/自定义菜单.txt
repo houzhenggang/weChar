@@ -1,0 +1,79 @@
+{
+    "button": [
+        {
+            "name": "员工圈子", 
+            "sub_button": [
+                {
+                    "type": "scancode_waitmsg", 
+                    "name": "公司公告", 
+                    "key": "rselfmenu_0_0", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "员工手册", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }
+            ]
+        },
+{
+            "name": "申请审核", 
+            "sub_button": [
+                {
+                    "type": "scancode_waitmsg", 
+                    "name": "外勤打卡", 
+                    "key": "rselfmenu_0_0", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "申请单", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "登录", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }
+            ]
+        },
+{
+            "name": "个人中心", 
+            "sub_button": [
+                {
+                    "type": "scancode_waitmsg", 
+                    "name": "公司考勤", 
+                    "key": "rselfmenu_0_0", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "个人资料", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "月度考勤", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "加油管理", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }, 
+                {
+                    "type": "scancode_push", 
+                    "name": "行政管理", 
+                    "key": "rselfmenu_0_1", 
+                    "sub_button": [ ]
+                }
+            ]
+        }
+    ]
+}
